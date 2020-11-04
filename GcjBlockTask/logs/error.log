@@ -1,0 +1,294 @@
+20200924 14:20:11 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:12 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:13 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:13 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:13 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:13 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:13 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:14 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:14 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:14 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:14 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:14 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:14 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:15 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:16 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:17 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:20:18 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
+20200924 14:31:11 [Thread-0] error erc20 recharge
+org.gcj3j.exceptions.MessageDecodingException: Value must be in format 0x[1-9]+[0-9]* or 0x0
+	at org.gcj3j.utils.Numeric.decodeQuantity(Numeric.java:32)
+	at org.gcj3j.protocol.core.methods.response.EthBlockNumber.getBlockNumber(EthBlockNumber.java:13)
+	at cn.sh.qianyi.coinspider.task.CoinTask.start(CoinTask.java:80)
+	at cn.sh.qianyi.coinspider.main.Main.lambda$0(Main.java:13)
+	at java.lang.Thread.run(Thread.java:748)
